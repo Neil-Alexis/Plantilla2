@@ -1,0 +1,175 @@
+#cv {
+  color: #515151;
+  position: relative;
+  width: 800px;
+  height: 1120px;
+  background-color: white;
+  display: flex;
+  box-sizing: border-box;
+  border: 0.5px white solid;
+  overflow-y: hidden;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+.conteiner {
+  width: 100%;
+  margin-bottom: 20px;
+  height: auto;
+
+  display: grid;
+
+  grid-template-columns: 40% 60%;
+}
+.section-user {
+  padding-left: 20px;
+  padding-right: 70px;
+  background-color: black;
+}
+.section-data {
+  display: grid;
+  padding-left: 20px;
+  grid-template-columns: 30% 40%;
+  grid-template-rows: 17% 83%;
+  margin-left: 60px;
+}
+.photo {
+  height: 250px;
+  padding-left: 10px;
+  padding-top: 8%;
+  padding-right: 10%;
+}
+.about,
+.contact-me,
+.language {
+  padding-left: 3%;
+  margin: 10px;
+  color: rgb(255, 255, 255);
+    margin-left: 1.140em;
+  background-color: #515151;
+  margin-bottom: 10px;
+  margin: 5px;
+  font-weight:900;
+ 
+}
+.direc{
+  color: white;
+}
+.text-one {
+  font-size: 1em;
+  padding-left: 20px;
+  margin-left: -11px;
+  color: white;
+}
+.mail,
+.direc,
+.phone,
+.imcreate {
+  margin-left: 6px;
+  filter: hue-rotate(60deg) brightness(500%);
+  color: white;
+}
+.gmail,
+.direccione,
+.telefono,
+.internet {
+  margin-left: 6px;
+  color: white;
+ }
+.english,
+.spanish,
+.German {
+  margin-left: 6px;
+  color: white;
+}
+.name {
+  background-color: black;
+  padding-left: 10%;
+  padding-bottom: 1%;
+  padding-top: 20%;
+  padding-right: 10%;
+  font-weight: 900; 
+  
+  
+}
+.jeremi {
+  margin-left: 1%;
+  font-size: 1.7em;
+  color: gray;
+  margin-bottom: 10px;
+  padding-top: 8%;
+
+ 
+ 
+}
+.photograper {
+  color: white;
+  padding-top: -20%;
+  font-size: 2.7em;
+  margin-bottom: 30px;
+  margin-top: -30px;
+padding-right: 40%;
+font-weight: bolder;
+
+word-spacing: 5pt;
+white-space: pre-wrap;
+}
+.advance,
+.bagginer,
+.native {
+  color: white;
+  padding: .7em;
+}
+
+.now-one,
+.now-two,
+.now-trhee,
+.now-five,
+.now-six,
+.now-seven {
+  color: black;
+  font-weight: 900;
+  padding-left: 5%;
+  font-size: 11px;
+  
+}
+.experen,
+.edu,
+.skil {
+  font-size: 18px;
+  background-color: rgb(216, 214, 214);
+  padding-left: 1%;
+  margin-left: 5%;
+  margin-right: 2%;
+  margin-top: 2%;
+
+ 
+}
+.art-direct,
+.pher-jr,
+.art-craf,
+.colorado,
+.scuare,
+.Assista {
+  margin-left: 5%;
+
+}
+.text-two,
+.text-tre,
+.text-four,
+.text-five,
+.text-six,
+.text-eigth {
+  margin-left: 5%;
+  font-size: 0.8em;
+ 
+}
+.club,
+.activicion,
+.art,
+.hig,
+.yale,
+.feli {
+  color: black;
+  font-weight: 900;
+}
+
+
